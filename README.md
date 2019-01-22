@@ -1,10 +1,10 @@
 # [App-Landing](https://devdap.com/themes/app-landing-page/)
 
-Exclusive Admin is an open source, admin dashboard template free avaliable in multiple versions [Bootstrap](https://getbootstrap.com/), [Ruby On Rails](https://rubyonrails.org/), [Asp.NET MVC](https://www.asp.net/), [.NET Core 2.0](https://www.asp.net/core/overview/aspnet-vnext).
+App Landing Page is the latest created bootstrap template and has proven to be one of the most successful landing page ever released also avaliable in multiple versions [Bootstrap](https://getbootstrap.com/), [Ruby On Rails](https://rubyonrails.org/), [Asp.NET MVC](https://www.asp.net/), [.NET Core 2.0](https://www.asp.net/core/overview/aspnet-vnext).
 
 ## Preview
 
-![App-Landing](https://devdap.com/media/app-landing_JTteKXE.jpg)
+![screenshot_2019-01-22 app landing page devdap](https://user-images.githubusercontent.com/35004804/51513288-e8d1c780-1e2b-11e9-943b-0139ffbe65ad.jpg)
 
 ### [View Live Preview](http://www.devdap-theme.s3-website.us-east-2.amazonaws.com/LandingPages/app/)
 
