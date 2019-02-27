@@ -75,7 +75,7 @@
 						if ( $('.header').length ) {
 							offset = $('.header').height();
 						}
-						$('html').animate({scrollTop: $(id).offset().top - offset}, 700);
+						$('body,html,document').animate({scrollTop: $(id).offset().top - offset}, 700);
 					}
 					return false;
 				});
