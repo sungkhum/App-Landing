@@ -250,7 +250,10 @@
   }; 
 	
 	
-	
+  //Hamburger menu toggle on menu item click
+$('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
   
   devdap.init();
   
